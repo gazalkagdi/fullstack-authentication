@@ -1,6 +1,6 @@
-<img width="600" alt="Screenshot 2024-04-13 at 4 12 41 PM" src="https://github.com/gazalkagdi/fullstack-authentication/assets/95044565/aa9e94b3-4d0e-4850-938d-64dc2faa9198">
+<img width="1280" alt="Screenshot 2024-04-13 at 4 12 41 PM" src="https://github.com/gazalkagdi/fullstack-authentication/assets/95044565/aa9e94b3-4d0e-4850-938d-64dc2faa9198">
 
-<img width="600" alt="Screenshot 2024-04-13 at 4 14 00 PM" src="https://github.com/gazalkagdi/fullstack-authentication/assets/95044565/679f6bf4-19fe-4727-8c00-17a40d0b6f28">
+<img width="1280" alt="Screenshot 2024-04-13 at 4 14 00 PM" src="https://github.com/gazalkagdi/fullstack-authentication/assets/95044565/679f6bf4-19fe-4727-8c00-17a40d0b6f28">
 
 # fullstack-authentication
 This project is a complete authentication system featuring both frontend and backend components. The frontend is built using Vite and React, providing a modern and efficient user interface for user login and registration. On the backend, Node.js and MySQL are utilized to handle user authentication, storing user credentials securely in a database.
