@@ -41,11 +41,11 @@ Backend: Node.js, Express.js, MySQL, bcrypt
 
 4) Run the SQL queries provided in the sql folder to initialize the database schema and tables.
 
-6) Start the backend server by running npm start in the backend directory.
+6) Start the backend server by running node index.js in the backend directory.
 
-7) Start the frontend development server by running npm start in the frontend directory.
+7) Start the frontend development server by running npm run dev in the frontend directory.
 
-8) Access the application in your web browser at http://localhost:3000.
+8) Access the application in your web browser at http://localhost:5173/.
 
 # Contributing:
 
