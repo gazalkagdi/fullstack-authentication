@@ -39,7 +39,7 @@ Backend: Node.js, Express.js, MySQL, bcrypt
 
 4) Set up your MySQL database and configure the connection in the backend code.
 
-4) Run the SQL queries provided in the sql folder to initialize the database schema and tables.
+4) Run the SQL queries provided in the sql folder to initialize the database schema and tables. start the xampp server for the backend to work.
 
 6) Start the backend server by running node index.js in the backend directory.
 
